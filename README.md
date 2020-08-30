@@ -1,9 +1,7 @@
 <samp>
-
-![](https://github.com/alinecbsr/alinecbsr/blob/master/hello.gif)
-
-<br />
-
+<h1 align="center">
+<img align="center"src="https://github.com/alinecbsr/alinecbsr/raw/master/hello.gif" alt="" style="max-width:50%;">
+</h1>
 👩🏻‍💻 🚀 My name is Aline, I'm a Front-End Developer. I am an eternal student, passionate about web development. I like to know and try new things to identify and collaborate in solving a problem. I am always actively participating in events in the technology community, I believe in the positive social impact they bring. I am passionate about travel, collaboration and training for new developers. 
 
 🇧🇷  I'm from Brazil. 
