@@ -1,7 +1,6 @@
-<img src="./hello.gif"  />
-
 <samp>
 
+![](https://github.com/alinecbsr/alinecbsr/blob/master/hello.gif)
 
 <br />
 
