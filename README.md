@@ -1,6 +1,7 @@
 <samp>
-<img align='right' src='https://github.com/alinecbsr/alinecbsr/raw/master/hello.gif' width='200'>
+<img align='right' src='https://github.com/alinecbsr/alinecbsr/raw/master/hello.gif' width='300'>
 <strong align="right">👋🏽  Hello world! </strong>
+<br />
 <br />
 
 👩🏻‍💻 My name is Aline, I'm a Front-End Developer. I am an eternal student, passionate about web development. I like to know and try new things to identify and collaborate in solving a problem. I am always actively participating in events in the technology community, I believe in the positive social impact they bring. I am passionate about travel, collaboration and training for new developers.
